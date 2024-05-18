@@ -12,4 +12,10 @@
 # 諸元
 
 ![image](https://github.com/Shinichi0713/optimize_inventory/assets/61480734/cb939e60-c3dd-4e77-a8cb-169cff8e650b)
+
+# 実験結果
 ![image](https://github.com/Shinichi0713/optimize_inventory/assets/61480734/092f8e93-57ff-4223-b2c4-428820181d5e)
+
+# 結論
+
+![image](https://github.com/Shinichi0713/optimize_inventory/assets/61480734/9f904f95-9735-461b-a41a-f222075790bc)
